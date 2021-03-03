@@ -3,10 +3,10 @@
   
 # Used Technologies
 
-  ### mongoDB
-  ### express.js
-  ### postman-testing
-## Dependecies
+  - mongoDB
+  - express.js
+  - postman-testing
+# Dependecies
  
   ### npm init
   ### npm i express
